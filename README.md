@@ -1,5 +1,5 @@
-Hey, I’m @Hermela93. I’m currently learning  Software engineering
-I’m interested in well ..
+Hey, I’m @Hermela93. I’m currently learning  Software engineering.
+I’m interested in ..
 
 <!---
 Hermela93/Hermela93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
